@@ -3,7 +3,8 @@ title = "The Kriom"
 matrixID = "@li:matrix.org"
 youtubeID = "@kriom1878"
 twitterID = "LiGoldragon"
+patreonID = ""
 +++
 
-# A Cryptographic Biome
+# Cryptographic Biome
 A network designed for ever.
