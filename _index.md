@@ -1,8 +1,7 @@
 +++
 title = "The Kriom"
-matrixID = "@li:matrix.org"
-youtubeID = "@kriom1878"
-twitterID = "LiGoldragon"
+matrixID = "#KriomLog:matrix.org"
+youtubeID = "@kriom5917"
 patreonID = "LiGoldragon"
 +++
 
