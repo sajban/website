@@ -1,9 +1,9 @@
 +++
-title = "The Kriom"
-matrixID = "#KriomLog:matrix.org"
-youtubeID = "@kriom5917"
+title = "The Criome"
+matrixID = "#CriomeLog:matrix.org"
+youtubeID = "@criomeNet"
 patreonID = "LiGoldragon"
 +++
 
-# *Kri*ptographic Bi*om*e
+# *Cri*ptographic Bi*ome*
 A network designed for ever.

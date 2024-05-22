@@ -1,5 +1,5 @@
 {
-  description = "Kriom website";
+  description = "Criome website";
 
   outputs = { self }:
     { type = "zolaWebsite"; };
